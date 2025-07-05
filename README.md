@@ -21,3 +21,6 @@ $ npm run build
 ```bash
 $ npm run start:prod
 ```
+### Check app by docs
+
+Navigate to http://localhost:3000/api
