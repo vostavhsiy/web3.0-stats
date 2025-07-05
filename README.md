@@ -6,7 +6,7 @@ Test task on web3.0.
 
 ### Clone repository
 ```bash
-$ git clone .
+$ git clone https://github.com/RockyAtoyan/web3.0-test.git .
 ```
 ### Install dependencies
 ```bash
