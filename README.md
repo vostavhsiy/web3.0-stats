@@ -1,6 +1,6 @@
 ## Description
 
-Service for track web3.0 stats and write that in Google Sheet.
+Service for track Web3.0 Blockchain stats.
 
 ## Project setup
 
