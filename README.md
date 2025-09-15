@@ -1,6 +1,6 @@
 ## Description
 
-Test task on web3.0.
+Service for track web3.0 stats and write that in Google Sheet.
 
 ## Project setup
 
